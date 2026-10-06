@@ -10,15 +10,18 @@
 ```javascript
 const ivyy = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Dart, Lua],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Android-Studio, Flutter, Figma],
+  roles: ["Medical Doctor 🩺", "Financial Controller 📊"],
+  workplace: "PUMCH 🏥",
+  currentlyLearning: ["JavaScript", "Python", "HTML & CSS 💻"],
+  domainExpertise: ["Clinical Medicine", "Healthcare Finance", "Data & Excel Analytics"],
+  hobbies: ["Open-World Games", "FPS", "Adventure", "Platformers 🎮"]
 }
 ```
   
-<!-- - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Developer
+<!-- - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Medical Doctor @ PUMCH & Financial Controller
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
 - 🎮 I enjoy playing Open-World, FPS Games, Adventure, Platformer <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>     -->
-I'm a Software Engineer | Discord.JS, Android, iOS, Web developer. <br />
+I'm a Medical Doctor at PUMCH | Financial Controller (currently learning coding). <br />
 I love learning new skills, new languages, new tools, or anything makes me use my brain hard :3 <br />
 I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>.
 

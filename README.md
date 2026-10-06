@@ -1,14 +1,14 @@
 #
 <div>
 <h2>
-    Hi, I'm ivyy
+    Hi, I'm Ivyy
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const meer = {
+const ivyy = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Dart, Lua],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker, Android-Studio, Flutter, Figma],

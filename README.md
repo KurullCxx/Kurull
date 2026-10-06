@@ -69,9 +69,9 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 
 <p>
   <a href="/"  align="left">
-    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=mutelove&theme=dracula&show_icons=true"/>
+    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=KurullCxx&theme=dracula&show_icons=true"/>
     <br />
-    <img src="https://komarev.com/ghpvc/?username=ivyyy" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=KurullCxx" alt="views" />
   </a>
 </p>
 
